@@ -31,7 +31,7 @@ election results. Where there will be accountability for each vote.
    - LinkedIn: Adrianna Ndubi, www.linkedin.com/in/adrianna-ndubi-025071267
 
 📫 **Contact:**
-   - Email: tutubi4567@gmail.com
+   - Email: tutubiadrianna@gmail.com
 
 Let's collaborate and turn data into insights! 🚀 #DataScience #MachineLearning #Analytics
 
