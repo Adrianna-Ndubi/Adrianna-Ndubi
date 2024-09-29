@@ -11,7 +11,7 @@
 
 📘 **Projects:**
 - Project 1
-   - Electronic voting app: This project is going to be concerned with accurate, efficient and transparent 
+   - Electronic voting app: This project will be concerned with accurate, efficient, and transparent 
 election results. Where there will be accountability for each vote.
    - https://github.com/Adrianna-Ndubi/VOTING-WEB-APP
 
@@ -20,7 +20,8 @@ election results. Where there will be accountability for each vote.
    - https://github.com/Adrianna-Ndubi/House-help-Web-Application
 
 🌱 **Currently Learning:**
-   - Udemy- Data Science course
+   - Udemy- 100 Days of Code Bootcamp
+   - UdemMoringa School- Data Science course
 
 📈 **Goals:**
    - Leverage data to solve real-world problems
